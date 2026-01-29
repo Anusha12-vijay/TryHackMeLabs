@@ -139,3 +139,5 @@ It builds strong foundations, exposes you to real attacks, and opens doors to mu
 ---
 
 📌 *This lab strengthened my understanding of Blue Team operations, SOC workflows, and real-world defensive security roles.*
+<img width="1440" height="837" alt="image" src="https://github.com/user-attachments/assets/0c8e11a9-b4e5-4c74-a137-789d296fc8f8" />
+
