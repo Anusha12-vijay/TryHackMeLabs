@@ -6,4 +6,4 @@ New Tool Learnt:
 Dirb
 Dirb scans this whole website based on context words and finds hidden links.
 It is a brute force approach and trie to find potential page names in the Websites. So in this we had a Fakebank system which we hacked.
-![Image TryHack Me](https://github.com/Anusha12-vijay/TryHackMeLabs/blob/0f32d43e4a73ae68a41079e532d5c36911245f89/PreSecurity/Images/Screenshot%202026-07-03%20063324.png)
+![Image TryHack Me](PreSecurity/Images/fake-bank.png)
