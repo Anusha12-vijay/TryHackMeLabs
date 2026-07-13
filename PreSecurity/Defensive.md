@@ -17,4 +17,5 @@ Major tasks involved in defensive security:
 Various areas of defensive security which make up the defensive team is:
 Security Operations Center
 
-SOC is a team of cybersecurity professionals which monitor the network or system to find threats
+SOC is a team of cybersecurity professionals which monitor the network or system to find or detect malicious cyber security events. Some of the main areas of SOC are:
+1. Trend and vulnerability awareness like keeping up with all recent updates
